@@ -1,9 +1,15 @@
 import { Container, Row, Col, Button, Card } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
+import Weather from '../components/Weather';
 
 function Home() {
   return (
     <Container>
+      <Row className="mb-4">
+        <Col>
+          <Weather />
+        </Col>
+      </Row>
       <section className="py-5 text-center">
         <h1>Welcome to My Portfolio</h1>
         <p className="lead">

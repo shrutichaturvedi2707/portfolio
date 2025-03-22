@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { NavLink } from 'react-router-dom';
 import { Navbar, Nav, Container } from 'react-bootstrap';
+import ThemeToggle from './ThemeToggle'; 
 
 function Header() {
   const [expanded, setExpanded] = useState(false);
@@ -37,6 +38,9 @@ function Header() {
             >
               Projects
             </Nav.Link>
+            <div className="ms-lg-3 mt-2 mt-lg-0">
+              <ThemeToggle />
+            </div>
           </Nav>
         </Navbar.Collapse>
       </Container>

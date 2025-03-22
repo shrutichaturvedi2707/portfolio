@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 code {
@@ -31,4 +32,36 @@ code {
   background: #007bff;
   color: white;
   z-index: 9999;
+}
+
+[data-bs-theme="dark"] {
+  --bs-body-bg: #212529;
+  --bs-body-color: #f8f9fa;
+  --bs-card-bg: #343a40;
+  --bs-card-border-color: #495057;
+  --bs-navbar-color: #f8f9fa;
+  --bs-navbar-hover-color: #ffffff;
+  --bs-navbar-active-color: #ffffff;
+}
+
+[data-bs-theme="dark"] .navbar {
+  background-color: #343a40 !important;
+}
+
+[data-bs-theme="dark"] .card {
+  background-color: #343a40;
+  color: #f8f9fa;
+}
+
+[data-bs-theme="dark"] .bg-light {
+  background-color: #343a40 !important;
+}
+
+[data-bs-theme="dark"] .text-dark {
+  color: #f8f9fa !important;
+}
+
+/* Transition effects for theme switching */
+.navbar, .card, .bg-light {
+  transition: background-color 0.3s ease, color 0.3s ease;
 }

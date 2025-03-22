@@ -1,4 +1,5 @@
 import { Container, Row, Col, Card } from 'react-bootstrap';
+import Skills from '../components/Skills';
 
 function About() {
   return (
@@ -69,6 +70,13 @@ function About() {
               <li>Node.js</li>
               <li>Git</li>
             </ul>
+          </Col>
+        </Row>
+      </section>
+      <section>
+        <Row className="mb-5">
+          <Col>
+          <Skills />
           </Col>
         </Row>
       </section>
