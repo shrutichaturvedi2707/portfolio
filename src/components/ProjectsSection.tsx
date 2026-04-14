@@ -12,7 +12,7 @@ const projects = [
   {
     title: "Day in the Life Simulator",
     image: ditlImg,
-    desc: "An interactive React experience where users live a day as Shruti — making real choices that mirror her RBC co-op.",
+    desc: "An interactive React experience where users live a day as ME, making real choices that mirror my RBC co-op!",
     tech: ["React", "Framer Motion", "CSS"],
     url: "https://shruti-dayinmylife.netlify.app/",
     color: "from-primary/20 to-lavender/20",
@@ -44,7 +44,7 @@ const projects = [
   {
     title: "Dad's Musician Website",
     image: dadWebsiteImg,
-    desc: "Built for her father, a classical Indian musician. Cultural pride meets code.",
+    desc: "Built for my father, a classical Indian musician. Cultural pride meets code.",
     tech: ["HTML", "CSS", "JavaScript"],
     url: "https://deveshchaturvedii.github.io/portfolio/",
     color: "from-lavender/20 to-primary/20",

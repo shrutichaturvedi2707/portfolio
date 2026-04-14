@@ -32,11 +32,11 @@ const timelineData = [
     desc: "Elected Vice President. Leading the CS community because apparently I needed one more thing on my plate.",
   },
   {
-    role: "CS Tutor + Ambassador + RA",
+    role: "Secretary at WiTS + FCS Tutor + Ambassador + RA",
     org: "Dalhousie University",
     period: "Sep 2024",
     location: "Halifax, NS",
-    desc: "Three roles at once. CS Tutor, Student Ambassador, and Residence Assistant. Classic Shruti energy.",
+    desc: "Four roles at once. Secretary, CS Tutor, Student Ambassador, and Residence Assistant. Classic Shruti energy.",
   },
   {
     role: "Marketing & PR Rep",

@@ -46,7 +46,7 @@ const AboutSection = () => {
               </h2>
               <p className="text-muted-foreground leading-relaxed text-base md:text-lg max-w-2xl">
                 Final-year CS student at Dalhousie University. I sit at the intersection of
-                technology, people, and strategy — equally comfortable writing code, running a
+                technology, people, and strategy, equally comfortable writing code, running a
                 marketing campaign, mentoring a first-year student, or presenting to a senior
                 business partner. My superpower? Making complex systems feel simple and making
                 people feel seen. 💖

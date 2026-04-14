@@ -2,10 +2,10 @@ import { motion } from "framer-motion";
 import { Github, Linkedin, Youtube, Instagram } from "lucide-react";
 
 const socials = [
-  { icon: Github, href: "https://github.com/shrutichaturvedi", label: "GitHub" },
-  { icon: Linkedin, href: "https://linkedin.com/in/shrutichaturvedi", label: "LinkedIn" },
-  { icon: Youtube, href: "#", label: "YouTube" },
-  { icon: Instagram, href: "#", label: "Instagram" },
+  { icon: Github, href: "https://github.com/shrutichaturvedi2707", label: "GitHub" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/shrutichaturvedi27/", label: "LinkedIn" },
+  { icon: Youtube, href: "https://www.youtube.com/@shrutichaturvedi27", label: "YouTube" },
+  { icon: Instagram, href: "https://www.instagram.com/shruttichaturvedi", label: "Instagram" },
 ];
 
 const SocialSidebar = () => {

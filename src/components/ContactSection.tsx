@@ -4,11 +4,11 @@ import { Linkedin, Github, Mail, Instagram, Youtube } from "lucide-react";
 import heartImg from "@/assets/heart-hd.png";
 
 const socials = [
-  { icon: Linkedin, label: "LinkedIn", href: "https://linkedin.com/in/shrutichaturvedi", color: "hover:border-blue-500 hover:text-blue-400" },
-  { icon: Github, label: "GitHub", href: "https://github.com/shrutichaturvedi", color: "hover:border-foreground hover:text-foreground" },
-  { icon: Mail, label: "Email", href: "mailto:shruti@example.com", color: "hover:border-primary hover:text-primary" },
-  { icon: Instagram, label: "Instagram", href: "https://instagram.com/shrutichaturvedi", color: "hover:border-pink-500 hover:text-pink-400" },
-  { icon: Youtube, label: "YouTube", href: "https://youtube.com", color: "hover:border-red-500 hover:text-red-400" },
+  { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/shrutichaturvedi27/", color: "hover:border-blue-500 hover:text-blue-400" },
+  { icon: Github, label: "GitHub", href: "https://github.com/shrutichaturvedi2707", color: "hover:border-foreground hover:text-foreground" },
+  { icon: Mail, label: "Email", href: "mailto:shrutichaturvedi@dal.ca", color: "hover:border-primary hover:text-primary" },
+  { icon: Instagram, label: "Instagram", href: "https://instagram.com/shruttichaturvedi", color: "hover:border-pink-500 hover:text-pink-400" },
+  { icon: Youtube, label: "YouTube", href: "https://www.youtube.com/@shrutichaturvedi27", color: "hover:border-red-500 hover:text-red-400" },
 ];
 
 const ContactSection = () => {
@@ -70,7 +70,7 @@ const ContactSection = () => {
             transition={{ delay: 1 }}
           >
             <p className="text-sm text-muted-foreground/60 mb-2">
-              "Shruti builds things that work, leads communities that thrive, and makes complex systems feel like they were always supposed to be simple."
+              "I build things that work, leads communities that thrive, and makes complex systems feel like they were always supposed to be simple."
             </p>
             <p className="text-xs text-muted-foreground/40 mt-6">
               Designed & built with 💖 by Shruti Chaturvedi

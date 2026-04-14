@@ -9,8 +9,8 @@ const awards = [
   { emoji: "🏆", title: "Faculty of CS Leadership Award", org: "Dalhousie", year: "2025" },
   { emoji: "🏆", title: "Residence Life Impact Award", org: "Dalhousie", year: "2025" },
   { emoji: "🚀", title: "Future Tech Leaders Award", org: "", year: "2022" },
-  { emoji: "🎓", title: "Dean's List", org: "Dalhousie University", year: "Almost All Semesters" },
-  { emoji: "🎓", title: "Sexton Scholar", org: "Dalhousie University", year: "Almost All Semesters" },
+  { emoji: "🎓", title: "Dean's List", org: "Dalhousie University", year: "All Semesters" },
+  { emoji: "🎓", title: "Sexton Scholar", org: "Dalhousie University", year: "All Semesters" },
 ];
 
 const AwardsSection = () => {

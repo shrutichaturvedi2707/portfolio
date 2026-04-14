@@ -16,8 +16,8 @@ const Index = () => {
       <SocialSidebar />
       <ResumeTab />
       <HeroSection />
-      <AboutSection />
       <WhatIDoSection />
+      <AboutSection />
       <TimelineSection />
       <ProjectsSection />
       <AwardsSection />
