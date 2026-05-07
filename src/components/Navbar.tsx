@@ -31,7 +31,7 @@ const Navbar = () => {
 
         {/* Center — LinkedIn */}
         <a
-          href="https://linkedin.com/in/shrutichaturvedi"
+          href="https://linkedin.com/in/shrutichaturvedi27"
           target="_blank"
           rel="noopener noreferrer"
           className="hidden md:block text-xs tracking-[0.15em] text-muted-foreground hover:text-primary transition-colors absolute left-1/2 -translate-x-1/2"
@@ -86,7 +86,7 @@ const Navbar = () => {
                 </a>
               ))}
               <a
-                href="https://linkedin.com/in/shrutichaturvedi"
+                href="https://linkedin.com/in/shrutichaturvedi27"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-xs text-primary"
